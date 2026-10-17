@@ -9,7 +9,8 @@ It works with public links only, the ones anyone with the link can open. It does
 ## Install
 
 1. Install a userscript manager, such as [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
-2. Open [openkrill-sharelink.user.js](https://tools.openkrill.app/sharelink/openkrill-sharelink.user.js), and your manager offers to install it.
+2. Install the script from [Greasy Fork](https://greasyfork.org/en/scripts/600769-openkrill-share-link-resolver).
+   You can also open [openkrill-sharelink.user.js](https://tools.openkrill.app/sharelink/openkrill-sharelink.user.js), and your manager offers to install it.
 3. Open a share link and press Resolve at the bottom right of the page.
 
 Your manager checks for updates on its own schedule. The script itself never does.
